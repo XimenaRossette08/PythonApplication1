@@ -1,0 +1,71 @@
+Nombres: Diego
+Apellidos: Lainez
+Edad: 28Estatura: 1.75
+Telefono: 5690381267
+Genero: Hombre
+
+
+Nombres: Diego 
+Apellidos: Lzinez
+Edad: 28Estatura: 1.75
+Telefono: 7856209854
+Genero: Hombre
+
+
+Nombres: Luis 
+Apellidos: Sanchez
+Edad: 19Estatura: 1.73
+Telefono: 9191678907
+Genero: Hombre
+
+
+Nombres: Diego 
+Apellidos: Lainez
+Edad: 28Estatura: 1.78
+Telefono: 8907654321
+Genero: Hombre
+
+
+Nombres: Diego
+Apellidos: Lainez
+Edad: 28Estatura: 1.78
+Telefono: 3456723456
+Genero: Hombre
+
+
+Nombres: Diego 
+Apellidos: Lainez
+Edad: 28Estatura: 1.78
+Telefono: 3489560987
+Genero: Hombre
+
+
+Nombres: we
+Apellidos: fd
+Edad: 19Estatura: 1.90
+Telefono: 9191234567
+Genero: Mujer
+
+
+Nombres: Diego
+Apellidos: Lainez
+Edad: 28Estatura: 1.72
+Telefono: 9873452389
+Genero: Hombre
+
+
+Nombres: Monserrat
+Apellidos: Aguilar
+Edad: 20Estatura: 1.55
+Telefono: 9191245689
+Genero: Mujer
+
+
+Nombres: Celic
+Apellidos: Moreno
+Edad: 20
+Estatura: 1.69
+Telefono: 9613789023
+Genero: Mujer
+
+
